@@ -1,2 +1,14 @@
 # LaTeX_Projects
- repositoru with some texfiles, to ingrate with overleaf
+
+ Repository with some .tex files, to integrate with overleaf
+
+---
+
+## Contend
+
+- Lecture documents
+- Templates
+  - IEEE official
+  - lecture template
+
+---
