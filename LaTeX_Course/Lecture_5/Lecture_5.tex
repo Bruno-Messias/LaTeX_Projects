@@ -1,0 +1,48 @@
+\documentclass{proc}
+
+
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+
+
+\title{Including Graphics}
+\author{Bruno C. Messias}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Picture books are just \emph{better}.
+
+\subsection{Graphics}
+
+This a graph
+
+\bigskip
+
+\includegraphics[width=2in]{DoubleY_Column.png}
+
+
+\subsection{Float: Figure Environment}
+
+This a graph tha I found tha is the FIgure \ref{graph}.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics{DoubleY_Column.png}
+    \caption{This a graph}
+    \label{graph}
+\end{figure}
+
+\subsection{}
+
+
+\section{Conclusion}
+
+Now you known to add graphs.
+
+
+\end{document}

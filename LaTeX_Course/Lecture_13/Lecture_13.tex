@@ -1,0 +1,63 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+
+\title{Redefining Commands}
+\author{Bruno C. Messias}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+These are a few ways to control typesetting output.
+
+\subsection{Continuing List}
+
+\begin{enumerate}
+    \item First
+    \item Second
+\end{enumerate}
+
+Now more
+
+\begin{enumerate}[resume]
+    \item Third
+    \item Four
+\end{enumerate}
+
+
+You can use without the package
+
+\begin{enumerate}
+    \setcounter{enumi}{4}
+    \item Fifth
+    \item Sixth
+\end{enumerate}
+
+\subsection{Changing the numbers}
+
+\renewcommand{\theenumi}{\Alph{enumi}}
+\begin{enumerate}
+    \item One
+    \item Two
+    \item Three
+\end{enumerate}
+
+
+\renewcommand{\labelitemi}{$\rightarrow$}
+\begin{itemize}
+    \item Ready
+    \item Set
+    \item Go
+\end{itemize}
+
+\section{Conclusion}
+
+
+You can use more Commands.
+
+\end{document}

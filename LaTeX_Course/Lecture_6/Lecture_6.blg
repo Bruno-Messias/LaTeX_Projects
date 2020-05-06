@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Lecture_6.aux
+The style file: plain.bst
+Database file #1: lecture_6.bib
+Warning--can't use both author and editor fields in smith2012
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            517 strings with 4217 characters,
+and the built_in function-call counts, 788 in all, are:
+= -- 71
+> -- 32
+< -- 0
++ -- 15
+- -- 10
+* -- 47
+:= -- 140
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 30
+empty$ -- 70
+format.name$ -- 10
+if$ -- 162
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 19
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 32
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 1
+while$ -- 7
+width$ -- 4
+write$ -- 33
+(There was 1 warning)

@@ -1,0 +1,64 @@
+\documentclass{article}
+
+%This is comment.
+
+\usepackage[margin=1in]{geometry}
+
+\title{Tables, Floats and The Tabular Environment}
+\author{Bruno C. Messias}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Let's Make Tables.
+
+\subsection{The Tabular Environment}
+
+Hi guys.
+
+%\smallskip
+\vspace{.5cm}
+%\bigskip
+
+\begin{tabular}{ |c||c| } 
+    \hline
+    Name & Your Name \\
+    \hline 
+    Subject & Writing \\
+    \hline 
+    Grade & A+ \\
+    \hline
+\end{tabular}
+
+\subsection{Floats: Table}
+
+\begin{table}[htbp]
+	\centering
+    \caption{test}
+    \begin{center}
+	\begin{tabular}{cccc}
+		\hline
+		A & A & A & A \\ \hline
+		A & A & A & A \\
+		A & A & A & A \\ \hline
+    \end{tabular}
+    \end{center}
+    \label{tab}
+\end{table}
+
+%Commadn \table nrow ncol name
+
+\subsection{References}
+
+You can see my table in Table \ref{tab}.
+
+
+\section{Conclusion}
+
+Now I known how to create a basic table.
+
+\end{document}

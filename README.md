@@ -5,7 +5,11 @@
 
 ## Contends
 
- * Course developing in LaTeX *Udemy*
+ - Course developing in LaTeX *Udemy*
+
+    - Templates
+    - IEEE official
+    - Lecture template
  
  ---
  
