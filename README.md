@@ -1,2 +1,11 @@
 # LaTeX_Projects
- repositoru with some texfiles, to ingrate with overleaf
+ Repository with some `.tex` files, to integrate with *Overleaf*
+
+---
+
+## Contends
+
+ * Course developing in LaTeX *Udemy*
+ 
+ ---
+ 
