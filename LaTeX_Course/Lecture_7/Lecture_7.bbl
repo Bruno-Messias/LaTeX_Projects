@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{url}
+{bibliographies - .bib library file in a different directory, how to use?
+  (Mendeley centralised .bib file) - TeX - LaTeX Stack Exchange}.
+
+\bibitem{Geron}
+Aur{\'{e}}lien G{\'{e}}ron.
+\newblock {\em {Hands-On Machine Learning with Scikit-Learn and TensorFlow}}.
+\newblock O'Reilly Media.
+
+\bibitem{Nathan2012}
+Andrew~J. Nathan and Andrew Scobell.
+\newblock {\em {[BOOK] Machine Learning Reinforced: Foundations, Algorithms,
+  and Applications}}, volume~91.
+\newblock 2012.
+
+\end{thebibliography}
